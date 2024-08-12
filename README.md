@@ -1,0 +1,2 @@
+Here i created BrandMaker Website by using HTML5,CSS3,JavaScript with a Bootstrap. The Website is basically look like as similar to the brandmark website due to Copyright issiue I changed Entire theam with images, links,
+pattern of the website.this website bascially design for the purpose of custumized Logo Making purpose it is simple prototype website. and i created additionally Real time Weather Integration For Banglore city location and it will Display on the top of the weeb site.
